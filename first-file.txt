@@ -11,9 +11,13 @@ frameworks
 3.Laraval
 
 
+
 Learning plans
 1.Python
 2.GoLang
 
 
-version finished
+
+
+File done.
+
