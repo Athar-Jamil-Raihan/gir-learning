@@ -14,3 +14,6 @@ frameworks
 Learning plans
 1.Python
 2.GoLang
+
+
+version finished
