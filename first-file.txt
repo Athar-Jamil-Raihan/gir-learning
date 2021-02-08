@@ -10,4 +10,14 @@ frameworks
 2.React
 3.Laraval
 
+
+
+Learning plans
+1.Python
+2.GoLang
+
+
+
+
 File done.
+
